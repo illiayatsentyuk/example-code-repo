@@ -1,3 +1,1 @@
-int main() {
-  return 0;
-}
+console.log(12312313);

@@ -1,1 +1,5 @@
-console.log("Hello world!");
+#include <iostream>
+
+int main() {
+  return 0;
+}

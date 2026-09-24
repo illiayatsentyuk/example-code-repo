@@ -1,5 +1,1 @@
-#include <iostream>
-
-int main() {
-  return 0;
-}
+console.log(123123);

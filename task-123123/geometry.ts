@@ -1,8 +1,11 @@
-export interface Point {
-  x: number;
-  y: number;
-}
+#include <iostream>
 
+using namespace std;
+
+int main() {
+  cout << "Hello, World!" << endl;
+  return 0;
+}
 export function distance(a: Point, b: Point): number {
   const dx = a.x - b.x;
   const dy = a.y - b.y;
